@@ -8,7 +8,6 @@ This is my personal portfolio
 * JS
 
 # DEMO
-shimputa/MyPortfolio/blob/main/index.html
 
 
 
