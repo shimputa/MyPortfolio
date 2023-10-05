@@ -8,7 +8,7 @@ This is my personal portfolio
 * JS
 
 # DEMO
-MyPortfolio-main/index.html
+file:///C:/Users/mwk19/OneDrive/Desktop/MyPortfolio-main/index.html
 
 
 
