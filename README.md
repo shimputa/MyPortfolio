@@ -8,7 +8,7 @@ This is my personal portfolio
 * JS
 
 # DEMO
- <a>https://shimputa.github.io/MyPortfolio/<a>
+ <a>http://muhammadwaseem.me/<a>
 
 
 # Screenshot
