@@ -8,9 +8,11 @@ This is my personal portfolio
 * JS
 
 # DEMO
-http://syedaman.me/MyPortfolio/
+ <a>http://muhammadwaseem.me/<a>
 
 
 # Screenshot
+![portfolio](https://github.com/shimputa/MyPortfolio/assets/109417572/93940d12-6f74-4282-91b4-16528801f34f)
 
-![portfolio](https://user-images.githubusercontent.com/76704798/151713231-42032911-ae46-4ae1-b30f-daeced735c61.PNG)
+
+
